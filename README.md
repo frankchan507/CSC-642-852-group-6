@@ -11,7 +11,6 @@
 |   Eunice Borres   | eborres@sfsu.edu | 
 |   Frankie Chan   | fchan3@mail.sfsu.edu | 
 |   Alan Yu   | Ayu20@sfsu.edu  | 
-|   Carmen Paisano   | Fill info  |
 |   Sidney Thomas   | Fill info  |
 
 
