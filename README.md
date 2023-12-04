@@ -8,9 +8,9 @@
 | Student Name | Student Email | 
 | :----------: | :-----------: | 
 |   Fill info   | Fill info  |  
-|   Fill info   | Fill info | 
+|   Eunice Borres   | eborres@sfsu.edu | 
 |   Frankie Chan   | fchan3@mail.sfsu.edu | 
-|   Fill info   | Fill info  | 
+|   Alan Yu   | Ayu20@sfsu.edu  | 
 |   Fill info   | Fill info  |
 |   Fill info   | Fill info  |
 
