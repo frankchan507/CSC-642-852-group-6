@@ -7,7 +7,7 @@
 
 | Student Name | Student Email | 
 | :----------: | :-----------: | 
-|   Fill info   | Fill info  |  
+|   Aaron Singh   | asingh39@sfsu.edu  |  
 |   Eunice Borres   | eborres@sfsu.edu | 
 |   Frankie Chan   | fchan3@mail.sfsu.edu | 
 |   Alan Yu   | Ayu20@sfsu.edu  | 
