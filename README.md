@@ -17,5 +17,5 @@
 #  UI Development Project Group #6
 # Phase 4: Implementing Interactive User Interface
 # Github Link: https://github.com/frankchan507/CSC-642-852-group-6
-# Video Link: https://drive.google.com/file/d/1oJq7OOb9aEp2xcQfLCCjP4Dny4vkxTob/view 
+# Video Link: [https://youtu.be/wNPcnSNPnNI ](https://youtu.be/wNPcnSNPnNI)
 
