@@ -11,7 +11,12 @@
 |   Eunice Borres   | eborres@sfsu.edu | 
 |   Frankie Chan   | fchan3@mail.sfsu.edu | 
 |   Alan Yu   | Ayu20@sfsu.edu  | 
-|   Fill info   | Fill info  |
-|   Fill info   | Fill info  |
+|   Carmen Paisano   | Fill info  |
+|   Sidney Thomas   | Fill info  |
 
+
+#  UI Development Project Group #6
+# Phase 4: Implementing Interactive User Interface
+# Github Link: https://github.com/frankchan507/CSC-642-852-group-6
+# Video Link: https://drive.google.com/file/d/1oJq7OOb9aEp2xcQfLCCjP4Dny4vkxTob/view 
 
